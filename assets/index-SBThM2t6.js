@@ -51,7 +51,7 @@ var _=Object.defineProperty;var u=(r,e,s)=>e in r?_(r,e,{enumerable:!0,configura
             `;return s+='<div class="cards__close"></div>',s}_createMenuItems(){let e=[];for(let s=0;s<20;s++){const c=document.createElement("li");c.classList.add("side-menu__item"),c.innerHTML=`
                 <div class="side-menu__item__icon">
                     <svg class="side-menu__item__icon-container" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23" fill="none">
-                        <use href="public/icons.svg#circle-icon"></use>
+                        <use href="icons.svg#circle-icon"></use>
                     </svg>
                 </div>
                 <div class="side-menu__item__content">
