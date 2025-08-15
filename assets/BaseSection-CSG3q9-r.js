@@ -1,0 +1,1 @@
+import{r as e,j as s}from"./index-D5tXwdFE.js";import{p}from"./BasePage-DcbcA4rL.js";const a=({className:r,children:o,...t})=>s.jsx(p,{...t,width:"100%",height:"100%",p:"2",pt:"3",className:`border border-gray-300 rounded-2xl ${r||""}`,children:o}),n=e.memo(a);export{n as B};
